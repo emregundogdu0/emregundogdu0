@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Emre Gündoğdu 👋</h1>
-<h3 align="center">Computer Engineering Student | AI/ML & LLM Developer</h3>
+
+<h3 align="center">
+  Computer Engineering Student | AI/ML & LLM Developer
+</h3>
 
 <p align="center">
   I build end-to-end AI systems, LLM-powered applications, computer vision solutions, and scalable software products.
@@ -10,7 +13,15 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,git,github,js,ts,react,nodejs,mysql,unity" />
+  <img src="https://skillicons.dev/icons?i=python,c,pytorch,tensorflow,opencv,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-102230?style=for-the-badge" />
 </p>
 
 ---
@@ -40,8 +51,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emregundogdu0&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=emregundogdu0&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emregundogdu0&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
@@ -50,21 +64,11 @@
 
 ---
 
-## 🏆 Achievements
+## 🧠 Focus Areas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emregundogdu0&theme=tokyonight&no-frame=true&row=1&column=6" />
+  Large Language Models · Machine Learning · Deep Learning · Computer Vision · NLP · AI-Powered Applications
 </p>
-
----
-
-## 📌 Featured Projects
-
-- **Cyper** – AI-powered service platform
-- **NCC Hocam** – AI student platform with scheduling optimization
-- **fitserno.com** – Fitness appointment system
-- **Legal AI System** – LLM-based legal document analysis
-- **Computer Vision Projects** – YOLO, OpenCV, PyTorch based solutions
 
 ---
 
